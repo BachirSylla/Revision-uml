@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T13:00:27.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="6tQvWY10Q6BsrwCPtxmf" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-08T13:03:53.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="tIaWbgv5oiXwK2rTScvx" version="16.5.3" type="github">
   <diagram id="JN_zJpiCl028exDaOtJt" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,10 +46,10 @@
         <mxCell id="QODRjF1N1UfMRCr76GRy-14" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="510" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QODRjF1N1UfMRCr76GRy-15" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="QODRjF1N1UfMRCr76GRy-15" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="160" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QODRjF1N1UfMRCr76GRy-16" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="QODRjF1N1UfMRCr76GRy-16" value="Comptable" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="390" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QODRjF1N1UfMRCr76GRy-17" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
