@@ -1,46 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T15:36:45.607Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="bsM3WHRwX28fK8uveh3C" version="16.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-09T15:52:30.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="C4ZBTAfiaf9iYjtovHKC" version="16.5.4" type="github">
   <diagram id="g8sbOZngv8h755Xl9k0T" name="Page-1">
     <mxGraphModel dx="868" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VBOAytOUwu6_gVTdrCVe-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VBOAytOUwu6_gVTdrCVe-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="199" y="40" width="440" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="VBOAytOUwu6_gVTdrCVe-2" value="consulter ses Absences&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VBOAytOUwu6_gVTdrCVe-2" value="consulter ses Absences&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
           <mxGeometry x="484" y="104" width="156" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VBOAytOUwu6_gVTdrCVe-3" value="Remplir le cahier de texte" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VBOAytOUwu6_gVTdrCVe-3" value="Remplir le cahier de texte" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="484" y="392" width="156" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VBOAytOUwu6_gVTdrCVe-4" value="Choisir groupe&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VBOAytOUwu6_gVTdrCVe-4" value="Choisir groupe&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="484" y="436" width="156" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VBOAytOUwu6_gVTdrCVe-5" value="Remplir info séance&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VBOAytOUwu6_gVTdrCVe-5" value="Remplir info séance&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="484" y="524" width="156" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VBOAytOUwu6_gVTdrCVe-6" value="Enregistrer absences" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VBOAytOUwu6_gVTdrCVe-6" value="Enregistrer absences" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="484" y="567" width="156" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VBOAytOUwu6_gVTdrCVe-8" value="Choisir Module" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VBOAytOUwu6_gVTdrCVe-8" value="Choisir Module" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="484" y="480" width="156" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VBOAytOUwu6_gVTdrCVe-10" value="choisir Filière&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VBOAytOUwu6_gVTdrCVe-10" value="choisir Filière&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
           <mxGeometry x="483" y="148" width="156" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VBOAytOUwu6_gVTdrCVe-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356" y="260" width="156" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VBOAytOUwu6_gVTdrCVe-12" value="Introduire info stagiaire" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VBOAytOUwu6_gVTdrCVe-12" value="Introduire info stagiaire" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="200" y="436" width="156" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VBOAytOUwu6_gVTdrCVe-14" value="Importer informations&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VBOAytOUwu6_gVTdrCVe-14" value="Importer informations&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="200" y="480" width="156" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VBOAytOUwu6_gVTdrCVe-16" value="Gérer le formations&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VBOAytOUwu6_gVTdrCVe-16" value="Gérer le formations&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="200" y="60" width="156" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VBOAytOUwu6_gVTdrCVe-17" value="Gérer les modules" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VBOAytOUwu6_gVTdrCVe-17" value="Gérer les modules" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="200" y="104" width="156" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VBOAytOUwu6_gVTdrCVe-62" value="include" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;" edge="1" parent="1" source="VBOAytOUwu6_gVTdrCVe-13" target="VBOAytOUwu6_gVTdrCVe-11">
@@ -163,16 +163,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VBOAytOUwu6_gVTdrCVe-78" value="Directeur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="VBOAytOUwu6_gVTdrCVe-78" value="Directeur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="64" y="94" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VBOAytOUwu6_gVTdrCVe-79" value="Gestionnaire des stagiaires" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="VBOAytOUwu6_gVTdrCVe-79" value="Gestionnaire des stagiaires" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="59" y="420" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VBOAytOUwu6_gVTdrCVe-80" value="Formateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="VBOAytOUwu6_gVTdrCVe-80" value="Formateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="774" y="500" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VBOAytOUwu6_gVTdrCVe-82" value="Stagiaire" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="VBOAytOUwu6_gVTdrCVe-82" value="Stagiaire" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
           <mxGeometry x="770" y="110" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VBOAytOUwu6_gVTdrCVe-89" value="" style="endArrow=none;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VBOAytOUwu6_gVTdrCVe-78" target="VBOAytOUwu6_gVTdrCVe-16">
@@ -259,7 +259,7 @@
             <mxPoint x="649" y="178" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VBOAytOUwu6_gVTdrCVe-13" value="Consulter état d&#39;absence" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VBOAytOUwu6_gVTdrCVe-13" value="Consulter état d&#39;absence" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="200" y="392" width="156" height="40" as="geometry" />
         </mxCell>
       </root>
